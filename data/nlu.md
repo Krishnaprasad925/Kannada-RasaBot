@@ -10,6 +10,7 @@
 ## intent:goodbye
 - ಬೈ
 - ವಿದಾಯ
+- ಬೈ ಬೈ
 ## intent:creation
 - ಯಾರು ನಿಮ್ಮನ್ನು ಸೃಷ್ಟಿಸಿದ್ದಾರೆ
 ## intent:who
