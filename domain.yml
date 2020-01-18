@@ -1,0 +1,20 @@
+intents:
+- greet
+- goodbye
+- creation
+- who
+templates:
+  utter_greet:
+  - text: ಕನ್ನಡ ಬಾಟ್‌ಗೆ ಸ್ವಾಗತ
+  utter_goodbye:
+  - text: ಬೇಗ ಹಿಂತಿರುಗಿ ಬನ್ನಿ
+  - text: ಮತ್ತೆ ಸಿಗೋಣ
+  utter_creation:
+  - text: ಕೃಷ್ಣ
+  utter_who:
+  - text: ನಾನು ಕನ್ನಡ ಚಾಟ್‌ಬಾಟ್
+actions:
+- utter_greet
+- utter_goodbye
+- utter_creation
+- utter_who
